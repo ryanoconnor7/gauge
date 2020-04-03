@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 ## **Terms of Service**
 
 (If you are a user having your usual residence in the US)
