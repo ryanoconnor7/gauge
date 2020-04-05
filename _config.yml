@@ -46,6 +46,22 @@ features                                  :
     description                           : See which image your friends like best with quick percentages and statistics.
     fontawesome_icon_name                 : poll
 
+  - title                                 : 3 Poll Types
+    description                           : A gauge can be either "Rank 1-3," "Pick 1," or "Competition."
+    fontawesome_icon_name                 : plus
+
+  - title                                 : Pick 1 Gauge
+    description                           : Post up to 4 pictures to a gauge and have your users vote on which one is the best of them all.
+    fontawesome_icon_name                 : check
+
+  - title                                 : Rank 1-3 Gauge
+    description                           : Post 3 or 4 pictures to a gauge and have your users vote on which one is the best, second best, and third best.
+    fontawesome_icon_name                 : medal
+
+  - title                                 : Competition Gauge
+    description                           : Create a category for a gauge, post a picture of your own to it, and invite up to 3 friends to post a picture of their own to the gauge. Followers will then vote to determine whose is the best.
+    fontawesome_icon_name                 : trophy
+
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
